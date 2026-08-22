@@ -38,7 +38,7 @@ const COURSE = {
 
   /* ── UNIT 1 ─────────────────────────────────────────────── */
   {name:"Number Sense", days:[
-    {d:1, iso:"2026-09-01", topic:"Course Intro · Types of Numbers", num:"1.1",
+    {d:1, iso:"2026-09-01", topic:"Course Intro  ·  Types of Numbers", num:"1.1",
       note:D("1AkFkTVzwaaACbwa_q3uSKyrjDKyfKV7E"),
       ans:"", /* key: D("1LC8Vtia_nr1Z-rQDesgz7UIiKk88XMP0") */ extras:[]},
     {d:2, iso:"2026-09-02", topic:"Sets and Subsets", num:"1.2",
