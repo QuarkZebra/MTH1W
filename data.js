@@ -75,7 +75,7 @@ const COURSE = {
       ans:"", /* key: D("1QhZetFnS7ajcwW-vt0C4AgDCJ0hXewD6") */ extras:[]},
     {d:13, iso:"2026-09-18", topic:"Quiz: Current Topic  &  Function Operations", flag:"quiz",
       extras:[]},
-    {d:14, iso:"2026-09-21", topic:"Review", flag:"review", extras:[]},
+    {d:14, iso:"2026-09-21", topic:"Review", extras:[]},
     {d:15, iso:"2026-09-22", topic:"Unit 1 Test", flag:"test", extras:[]},
   ]},
 
@@ -121,7 +121,7 @@ const COURSE = {
       ans:"", /* key: D("1KGijohkv5Tg7CDDI41RuMiofWuZQLW1q") */ extras:[]},
     {d:29, iso:"2026-10-14", topic:"Quiz: Current Topic  &  Scientific Notation", flag:"quiz",
       extras:[]},
-    {d:30, iso:"2026-10-15", topic:"Review", flag:"review", extras:[]},
+    {d:30, iso:"2026-10-15", topic:"Review", extras:[]},
     {d:31, iso:"2026-10-16", topic:"Unit 2 Test", flag:"test", extras:[]},
   ]},
 
@@ -156,7 +156,7 @@ const COURSE = {
     {d:41, iso:"2026-10-30", topic:"Problem Solving with Linear Relations", num:"3.9",
       note:D("1h12hrWIDXcgcXo9yhKOF8W2ViBxbTwsu"),
       ans:"", /* key: D("10dKX8nDuVJoUPQXhyBLP4ehZisLzLmTk") */ extras:[]},
-    {d:42, iso:"2026-11-02", topic:"Review", flag:"review", extras:[]},
+    {d:42, iso:"2026-11-02", topic:"Review", extras:[]},
     {d:43, iso:"2026-11-03", topic:"Unit 3 Test", flag:"test", extras:[]},
   ]},
 
@@ -178,7 +178,7 @@ const COURSE = {
       note:"", ans:"", extras:[]},
     {d:51, iso:"2026-11-13", topic:"Quiz: Current Topic  &  Solving, Slope, and y = mx + b", flag:"quiz",
       extras:[]},
-    {d:52, iso:"2026-11-16", topic:"Review", flag:"review", extras:[]},
+    {d:52, iso:"2026-11-16", topic:"Review", extras:[]},
     {d:53, iso:"2026-11-17", topic:"Unit 4 Test", flag:"test", extras:[]},
   ]},
 
@@ -225,7 +225,7 @@ const COURSE = {
       note:"", ans:"", extras:[]},
     {d:72, iso:"2026-12-15", topic:"Calculations in 3D · Surface Area", num:"6.8",
       note:"", ans:"", extras:[]},
-    {d:73, iso:"2026-12-16", topic:"Review", flag:"review", extras:[]},
+    {d:73, iso:"2026-12-16", topic:"Review", extras:[]},
     {d:74, iso:"2026-12-17", topic:"Unit 6 Test", flag:"test", extras:[]},
     {d:75, iso:"2026-12-18", topic:"Practice Quiz: Volume, Slope, and Like Terms", flag:"quiz", extras:[]},
   ]},
@@ -246,17 +246,17 @@ const COURSE = {
       note:"", ans:"", extras:[]},
     {d:82, iso:"2027-01-12", topic:"Quiz: Current Topic  &  Exponent Laws and Percentages", flag:"quiz",
       extras:[]},
-    {d:83, iso:"2027-01-13", topic:"Review", flag:"review", extras:[]},
+    {d:83, iso:"2027-01-13", topic:"Review", extras:[]},
     {d:84, iso:"2027-01-14", topic:"Unit 7 Test", flag:"test", extras:[]},
   ]},
 
   /* ── EQAO REVIEW ────────────────────────────────────────── */
   {name:"EQAO Review", noNumber:true, days:[
-    {d:85, iso:"2027-01-15", topic:"EQAO Review · Number and Algebra", flag:"review", extras:[]},
-    {d:86, iso:"2027-01-18", topic:"EQAO Review · Relations and Data", flag:"review", extras:[]},
-    {d:87, iso:"2027-01-19", topic:"EQAO Review · Geometry, Measurement and Finance", flag:"review", extras:[]},
-    {d:88, iso:"2027-01-20", topic:"EQAO Format Practice · The Sample Assessment", flag:"review", extras:[]},
-    {d:89, iso:"2027-01-21", topic:"Timed Full-Length Practice · Last Day", flag:"review", extras:[]},
+    {d:85, iso:"2027-01-15", topic:"EQAO Review · Number and Algebra", extras:[]},
+    {d:86, iso:"2027-01-18", topic:"EQAO Review · Relations and Data", extras:[]},
+    {d:87, iso:"2027-01-19", topic:"EQAO Review · Geometry, Measurement and Finance", extras:[]},
+    {d:88, iso:"2027-01-20", topic:"EQAO Format Practice · The Sample Assessment", extras:[]},
+    {d:89, iso:"2027-01-21", topic:"Timed Full-Length Practice · Last Day", extras:[]},
   ]},
 
 ]};
