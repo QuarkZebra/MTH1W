@@ -32,8 +32,9 @@ Everything you edit lives in **`data.js`**. Find the day, paste the URL:
 - `flag: "quiz" | "review" | "test"` tints the row. Quiz days use
   `noteLabel` / `ansLabel` to rename the links.
 
-Units 1–3 notes are linked (with keys stashed in comments). Units 4–7 carry
-their note numbers with empty links, so they show as "Coming soon" until built.
+All 60 lesson days are linked: blank note, EQAO companion sheet, and at least
+one video. Answers stay empty until after class — where the KEY pdf already
+exists in Drive, Units 1–3 have its id stashed in a comment beside `ans:""`.
 
 The site works out the rest from the real date: the **Today** card, the
 current-unit highlight, the progress bar, and which units show
