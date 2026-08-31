@@ -22,8 +22,10 @@ Everything you edit lives in **`data.js`**. Find the day, paste the URL:
   into the field when posting. Live answers links get the ☠︎ *"Do not look if
   you haven't done the practice"* hover.
 - **`extras`** — `["Title", "url", "kind"]` where kind is `"doc"` (worksheet /
-  handout / anything), `"ans"` (solutions — red with the ☠︎ warning), or
-  `"vid"` (video).
+  handout / anything), `"ans"` (solutions — red with the ☠︎ warning),
+  `"vid"` (video), or `"eqao"` (the day's EQAO companion sheet — dark blue
+  with the ✎ icon). Every one of the 60 lesson days already carries its
+  EQAO sheet from `03 MTH1W/EQAO Questions/`.
 - `D("fileId")` is shorthand for a Google Drive link; pasting the full URL
   works just as well.
 - Days with no note (tests, quizzes, work periods) simply have no `num` field.

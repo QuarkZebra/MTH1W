@@ -17,7 +17,7 @@
   --bdr:#d9e8f2;--bdr2:#bfd8e8;
   --accent:#0284c7;--accent-2:#0ea5e9;--accent-fg:#ffffff;
   --accent-dim:rgba(2,132,199,.08);--accent-bdr:rgba(2,132,199,.3);
-  --ans:#cc3344;--vid:#a8498f;--done:#1f8a63;
+  --ans:#cc3344;--vid:#a8498f;--eqao:#1e40af;--done:#1f8a63;
   --warn-bg:#fff0f2;--warn-fg:#b32642;--warn-bdr:rgba(204,51,68,.3);
   --test-bg:rgba(176,72,84,.06);--quiz-bg:rgba(2,132,199,.05);--pquiz-bg:rgba(2,132,199,.05);
   --r:10px;--sh:0 1px 2px rgba(15,34,51,.06);--sh2:0 1px 3px rgba(15,34,51,.06),0 6px 20px rgba(15,34,51,.07);
@@ -32,7 +32,7 @@
   --bdr:#16293b;--bdr2:#224055;
   --accent:#38bdf8;--accent-2:#7dd3fc;--accent-fg:#06202f;
   --accent-dim:rgba(56,189,248,.12);--accent-bdr:rgba(56,189,248,.32);
-  --ans:#ff8f9d;--vid:#d576c0;--done:#43c79f;
+  --ans:#ff8f9d;--vid:#d576c0;--eqao:#8fa8ff;--done:#43c79f;
   --warn-bg:#33202a;--warn-fg:#ff9fae;--warn-bdr:rgba(255,143,157,.3);
   --test-bg:rgba(224,122,140,.07);--quiz-bg:rgba(56,189,248,.07);--pquiz-bg:rgba(56,189,248,.07);
   --sh:0 1px 3px rgba(0,0,0,.3);--sh2:0 2px 8px rgba(0,0,0,.3),0 8px 24px rgba(0,0,0,.25);
@@ -160,6 +160,7 @@ header .sub{color:var(--t3);font-size:.88rem;margin-top:.35rem}
 .dlink.pend:hover{opacity:1;text-decoration:none}
 .dlink.vid{color:var(--vid);font-size:.72rem}
 .dlink.doc{color:var(--t2);font-size:.72rem}
+.dlink.eqao{color:var(--eqao);font-size:.72rem;font-weight:600}
 
 /* Hover tooltips */
 .tipwrap{position:relative;display:inline-flex}
@@ -230,6 +231,7 @@ tr.flash{animation:rowflash 1.8s ease-out}
   <div class="legend">
     <div class="legend-item"><span class="dlink note" style="pointer-events:none;font-size:.72rem">↗ Blank Note &amp; Practice Problems</span></div>
     <div class="legend-item"><span class="dlink ans" style="pointer-events:none">✓ Answers</span><span>posted after class</span></div>
+    <div class="legend-item"><span class="dlink eqao" style="pointer-events:none">✎ EQAO Questions</span><span>practice in the exam’s own style</span></div>
     <div class="legend-item"><span class="dlink vid" style="pointer-events:none">▶ Video</span></div>
     <div class="legend-item"><span class="dlink pend" style="pointer-events:none">Greyed out</span><span>coming soon</span></div>
   </div>
@@ -287,6 +289,7 @@ function extraLink(e){
   const[t,url,kind]=e;
   if(kind==="vid")return live(t,url,"vid","▶",false);
   if(kind==="ans")return live(t,url,"ans","✓",true);
+  if(kind==="eqao")return live(t,url,"eqao","✎",false);
   return live(t,url,"doc","↗",false);
 }
 function noteLinks(day){
