@@ -41,7 +41,7 @@ const COURSE = {
   {name:"Number Sense", days:[
     {d:1, iso:"2026-09-01", topic:"Course Intro  ·  Types of Numbers", num:"1.1",
       note:D("1AkFkTVzwaaACbwa_q3uSKyrjDKyfKV7E"),
-      ans:"", /* key: D("1LC8Vtia_nr1Z-rQDesgz7UIiKk88XMP0") */
+      ans:D("1LC8Vtia_nr1Z-rQDesgz7UIiKk88XMP0"), /* key: D("1LC8Vtia_nr1Z-rQDesgz7UIiKk88XMP0") */
       extras:[["EQAO Questions", D("1Nw-RQXt8XvlKaCjpaRujeHmmYWj1bF4X"), "eqao"],
               ["Rational and Irrational Numbers Explained", "https://www.youtube.com/watch?v=j4fMvpOc6YQ", "vid"]]},
     {d:2, iso:"2026-09-02", topic:"Sets and Subsets", num:"1.2",
