@@ -27,6 +27,11 @@
    KEYS: where a KEY pdf already exists in Drive, its id is
    stashed in a comment right after ans:"" — after class, move
    it into the ans field.
+
+   To SAVE TIME: (Just change the message)
+
+   git add . && git commit -m "1.2 key add" && git push origin main
+
    ═══════════════════════════════════════════════════════════ */
 
 const D = id => `https://drive.google.com/file/d/${id}/view`;
@@ -46,7 +51,7 @@ const COURSE = {
               ["Rational and Irrational Numbers Explained", "https://www.youtube.com/watch?v=j4fMvpOc6YQ", "vid"]]},
     {d:2, iso:"2026-09-02", topic:"Sets and Subsets", num:"1.2",
       note:D("1wUomT5kNm4Dw2FE48UIkBLxmzLznc16O"),
-      ans:"", /* key: D("1xWuDTDyT3hx0plvRWqIq0AMU0ZvJMCTd") */
+      ans:D("1xWuDTDyT3hx0plvRWqIq0AMU0ZvJMCTd"), /* key: D("1xWuDTDyT3hx0plvRWqIq0AMU0ZvJMCTd") */
       extras:[["EQAO Questions", D("1XfUyLtHsYkjOjabexhZuhB541SBo0UiN"), "eqao"],
               ["Sets, Subsets and the Real Numbers", "https://www.youtube.com/watch?v=vSpIVLg3xMc", "vid"]]},
     {d:3, iso:"2026-09-03", topic:"Integers in Context", num:"1.3",
