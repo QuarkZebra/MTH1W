@@ -56,7 +56,7 @@ const COURSE = {
               ["Sets, Subsets and the Real Numbers", "https://www.youtube.com/watch?v=vSpIVLg3xMc", "vid"]]},
     {d:3, iso:"2026-09-03", topic:"Integers in Context", num:"1.3",
       note:D("15TB3_NNd056LKA7_rhyiyAz42CsNMQ_0"),
-      ans:"", /* key: D("10hoDPfUTW4ovBahyhi8Ij1cXd8iwy8Od") */
+      ans:D("10hoDPfUTW4ovBahyhi8Ij1cXd8iwy8Od"), /* key: D("10hoDPfUTW4ovBahyhi8Ij1cXd8iwy8Od") */
       extras:[["EQAO Questions", D("1QaKfSgWg8a1pMO7A5Hpdyrh_suX-p-pJ"), "eqao"],
               ["Adding and Subtracting Integers", "https://www.youtube.com/watch?v=GJjbq1C0MaA", "vid"],
               ["Multiplying Positive and Negative Numbers", "https://www.youtube.com/watch?v=47wjId9k2Hs", "vid"]]},
