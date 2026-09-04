@@ -62,7 +62,7 @@ const COURSE = {
               ["Multiplying Positive and Negative Numbers", "https://www.youtube.com/watch?v=47wjId9k2Hs", "vid"]]},
     {d:4, iso:"2026-09-04", topic:"Fractions and Unit Fractions", num:"1.4",
       note:D("1_2YOHAyFxMYs-x4TB42obmtI-YmuUprr"),
-      ans:"", /* key: D("1TevnPQRs3pCwlC9cT5E9fvtO4a1WBhTz") */
+      ans:D("1TevnPQRs3pCwlC9cT5E9fvtO4a1WBhTz"), /* key: D("1TevnPQRs3pCwlC9cT5E9fvtO4a1WBhTz") */
       extras:[["EQAO Questions", D("158YA_J8FUjFwfjd-L_ncjGNQUvLM8HOM"), "eqao"],
               ["Fractions on a Number Line", "https://www.youtube.com/watch?v=TLktfswm54A", "vid"]]},
     {d:5, iso:"2026-09-08", topic:"Adding and Subtracting Fractions", num:"1.5",
