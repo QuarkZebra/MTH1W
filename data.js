@@ -67,7 +67,7 @@ const COURSE = {
               ["Fractions on a Number Line", "https://www.youtube.com/watch?v=TLktfswm54A", "vid"]]},
     {d:5, iso:"2026-09-08", topic:"Adding and Subtracting Fractions", num:"1.5",
       note:D("1UYndNGYDBdA441ja2sS26zkzEXvWcKxS"),
-      ans:"", /* key: D("1tfD-ZvRE1DxzFLpval360pxPLkpHpRP8") */
+      ans:D("1tfD-ZvRE1DxzFLpval360pxPLkpHpRP8"), /* key: D("1tfD-ZvRE1DxzFLpval360pxPLkpHpRP8") */
       extras:[["EQAO Questions", D("1biR8qOlJ2I4cIUZ-elC3Gn-8vRCl_wTX"), "eqao"],
               ["Adding Mixed Numbers", "https://www.youtube.com/watch?v=pynfj2bYRms", "vid"]]},
     {d:6, iso:"2026-09-09", topic:"Multiplying and Dividing Fractions", num:"1.6",
