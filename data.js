@@ -72,7 +72,7 @@ const COURSE = {
               ["Adding Mixed Numbers", "https://www.youtube.com/watch?v=pynfj2bYRms", "vid"]]},
     {d:6, iso:"2026-09-09", topic:"Multiplying and Dividing Fractions", num:"1.6",
       note:D("1k0vHaQYkJGPG9tbyMYV4Bfh9aIj6eiRx"),
-      ans:"", /* key: D("1NqZg-Zkij7bH-sO_SdbLX9RmcMwvpq5A") */
+      ans:D("1NqZg-Zkij7bH-sO_SdbLX9RmcMwvpq5A"), /* key: D("1NqZg-Zkij7bH-sO_SdbLX9RmcMwvpq5A") */
       extras:[["EQAO Questions", D("1E8mz00WeuB3vSgaqNFLqgT3jdHb-uUk8"), "eqao"],
               ["Dividing Fractions", "https://www.youtube.com/watch?v=4lkq3DgvmJo", "vid"]]},
     {d:7, iso:"2026-09-10", topic:"Current Topics  &  Integer and Fraction Operations", flag:"quiz",
