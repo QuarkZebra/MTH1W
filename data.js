@@ -79,7 +79,7 @@ const COURSE = {
       extras:[]},
     {d:8, iso:"2026-09-11", topic:"Powers", num:"1.7",
       note:D("1pAZikafnnL7u9MO0wigZ8iJyD_N5uSEE"),
-      ans:"", /* key: D("1k3tgceplF03fxJvhjhGJtNygMWsfjgiY") */
+      ans:D("1k3tgceplF03fxJvhjhGJtNygMWsfjgiY"), /* key: D("1k3tgceplF03fxJvhjhGJtNygMWsfjgiY") */
       extras:[["EQAO Questions", D("1FiwS4bLGpA_zr0ygD1r2V5ED6VHD649c"), "eqao"],
               ["The Problem with Zero", "https://www.youtube.com/watch?v=BRRolKTlF6Q", "vid"]]},
     {d:9, iso:"2026-09-14", topic:"Scientific Notation", num:"1.8",
