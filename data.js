@@ -94,7 +94,7 @@ const COURSE = {
               ["The Problem with Zero", "https://www.youtube.com/watch?v=BRRolKTlF6Q", "vid"]]},
     {d:9, iso:"2026-09-14", topic:"Scientific Notation", num:"1.8",
       note:D("1vC594m_1UIvvolgahz1MHGTyPJJBECn4"),
-      ans:"", /* key: D("1qulWkf-0pfyPmrzmb4TGiKHvK1MqH1oH") */
+      ans:D("1qulWkf-0pfyPmrzmb4TGiKHvK1MqH1oH"), /* key: D("1qulWkf-0pfyPmrzmb4TGiKHvK1MqH1oH") */
       extras:[["EQAO Questions", D("13DR7UNqbEa6CgLWwwGgcn_0r2uLAbRmd"), "eqao"],
               ["Scientific Notation", "https://www.youtube.com/watch?v=YmqXohR1UfA", "vid"]]},
     {d:10, iso:"2026-09-15", topic:"Coding 1 · Variables and Output", num:"1.9",
