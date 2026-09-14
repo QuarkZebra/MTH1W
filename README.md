@@ -23,9 +23,14 @@ Everything you edit lives in **`data.js`**. Find the day, paste the URL:
   you haven't done the practice"* hover.
 - **`extras`** — `["Title", "url", "kind"]` where kind is `"doc"` (worksheet /
   handout / anything), `"ans"` (solutions — red with the ☠︎ warning),
-  `"vid"` (video), or `"eqao"` (the day's EQAO companion sheet — dark blue
-  with the ✎ icon). Every one of the 60 lesson days already carries its
-  EQAO sheet from `03 MTH1W/EQAO Questions/`.
+  `"vid"` (video), `"eqao"` (the day's EQAO companion sheet — dark blue
+  with the ✎ icon), or `"skills"` (a Prerequisite Skills sheet — teal, with
+  its answers on the sheet). Every one of the 60 lesson days already carries
+  its EQAO sheet from `03 MTH1W/EQAO Questions/`.
+- **`essentials`** (top of `COURSE`, above `units`) — the links pinned under
+  the site title: `["Label", "url", "kind", "warn"]` with kind `"outline"`,
+  `"routine"` or `"calc"`. A `warn` string becomes a ⚠ note on hover, or on
+  the first tap on a phone (a second tap or Continue opens the link).
 - `D("fileId")` is shorthand for a Google Drive link; pasting the full URL
   works just as well.
 - Days with no note (tests, quizzes, work periods) simply have no `num` field.

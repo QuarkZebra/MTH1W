@@ -40,6 +40,16 @@ const COURSE = {
   code: "MTH1W",
   title: "Mathematics 9",
   sub: "Grade 9 · De-streamed",
+
+  /* Pinned under the title, above the units: [label, url, kind, warn].
+     kind = "outline" | "routine" | "calc". A warn string shows as a hazard
+     note on hover (desktop) or first tap (phone). */
+  essentials: [
+    ["Course Outline",D("1HEEkHSr_Mx2lo6ibd_f6Vibwz9Fus9a2"),"outline"],   /* LaTeX rebuild, 14 Sep 2026, written over the 2021 pdf so the id held */
+    ["A Homework Routine",D("1quQdMsDNPSvJLj8wxe-c9D9doSvAcNTy"),"routine"],
+    ["Approved Calculators",D("1Hq2HE1EzSy2frKT0pfDUSWshgf0GB7A1"),"calc","Must be one of these exact models"],
+  ],
+
   units: [
 
   /* ── UNIT 1 ─────────────────────────────────────────────── */
