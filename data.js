@@ -30,7 +30,7 @@
 
    To SAVE TIME: (Just change the message)
 
-   git add . && git commit -m "1.2 key add" && git push origin main
+   git add . && git commit -m "d10 keys" && git push origin main
 
    ═══════════════════════════════════════════════════════════ */
 
@@ -99,10 +99,10 @@ const COURSE = {
               ["Scientific Notation", "https://www.youtube.com/watch?v=YmqXohR1UfA", "vid"]]},
     {d:10, iso:"2026-09-15", topic:"Coding 1 · Variables and Output", num:"1.9",
       note:D("1Oj6QQ4J5tG53_vDRXZpGTgMG56EVgJBd"),
-      ans:"", /* key: D("1skQbfL5sYNhn3kaMnETqcMmWLLYjvumQ") */
+      ans:D("1skQbfL5sYNhn3kaMnETqcMmWLLYjvumQ"), /* key: D("1skQbfL5sYNhn3kaMnETqcMmWLLYjvumQ") */
       extras:[["EQAO Questions", D("16KJPAKAJPW31wqneSbTE2OC-Coe0iMJM"), "eqao"],
               ["Guided Lesson (start here if coding is new)", D("1chopdH4UePkO5cEfyyO1NL4zstfmCUKu"), "doc"],
-              /* guided key: ["Guided Lesson Answers", D("1NStMuR0Ncy56GxRiQGkndsKsCLu7IGb1"), "ans"], */
+              ["Answers", D("1NStMuR0Ncy56GxRiQGkndsKsCLu7IGb1"), "ans"], 
               ["What Is a Variable?", "https://www.youtube.com/watch?v=ghCbURMWBD8", "vid"]]},
     {d:11, iso:"2026-09-16", topic:"Density, Infinity and Limits", num:"1.10",
       note:D("1BN1NSVvln-wFvLTJDuPdX10Aw7e24oGC"),
