@@ -102,6 +102,7 @@ const COURSE = {
       ans:"", /* key: D("1skQbfL5sYNhn3kaMnETqcMmWLLYjvumQ") */
       extras:[["EQAO Questions", D("16KJPAKAJPW31wqneSbTE2OC-Coe0iMJM"), "eqao"],
               ["Guided Lesson (start here if coding is new)", D("1chopdH4UePkO5cEfyyO1NL4zstfmCUKu"), "doc"],
+              /* guided key: ["Guided Lesson Answers", D("1NStMuR0Ncy56GxRiQGkndsKsCLu7IGb1"), "ans"], */
               ["What Is a Variable?", "https://www.youtube.com/watch?v=ghCbURMWBD8", "vid"]]},
     {d:11, iso:"2026-09-16", topic:"Density, Infinity and Limits", num:"1.10",
       note:D("1BN1NSVvln-wFvLTJDuPdX10Aw7e24oGC"),
