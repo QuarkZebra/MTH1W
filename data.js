@@ -112,7 +112,7 @@ const COURSE = {
               ["The Infinite Hotel Paradox (first 1:17)", "https://www.youtube.com/watch?v=Uj3_KqkI9Zo", "vid"]]},
     {d:12, iso:"2026-09-17", topic:"Ratios, Rates and Proportions", num:"1.11",
       note:D("1070Eg0sLMYC_8i3eOb41b-iM3n60JmF-"),
-      ans:"", /* key: D("1QhZetFnS7ajcwW-vt0C4AgDCJ0hXewD6") */
+      ans:D("1QhZetFnS7ajcwW-vt0C4AgDCJ0hXewD6"), /* key: D("1QhZetFnS7ajcwW-vt0C4AgDCJ0hXewD6") */
       extras:[["EQAO Questions", D("1KWWMZpwfH07g5ELDkHa-IqepymGO-6Xv"), "eqao"],
               ["Ratios and Rates", "https://www.youtube.com/watch?v=RQ2nYUBVvqI", "vid"],
               ["Proportions", "https://www.youtube.com/watch?v=USmit5zUGas", "vid"]]},
