@@ -118,7 +118,10 @@ const COURSE = {
               ["Proportions", "https://www.youtube.com/watch?v=USmit5zUGas", "vid"]]},
     {d:13, iso:"2026-09-18", topic:"Current Topics  &  Function Operations", flag:"quiz",
       extras:[]},
-    {d:14, iso:"2026-09-21", topic:"Review", extras:[]},
+    {d:14, iso:"2026-09-21", topic:"Review",
+      note:D("1m69B9i07Ou-D5oFV0Aa1t2OAxwE9ZqF8"),
+      /* key: D("1ohldN3AU_m4LAhMcBT9fWWEqQWy6Xa_M") */
+      extras:[]},
     {d:15, iso:"2026-09-22", topic:"Unit 1 Test", flag:"test", extras:[]},
   ]},
 
