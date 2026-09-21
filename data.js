@@ -120,7 +120,7 @@ const COURSE = {
       extras:[]},
     {d:14, iso:"2026-09-21", topic:"Review", noteLabel:"Unit 1 Review",
       note:D("1m69B9i07Ou-D5oFV0Aa1t2OAxwE9ZqF8"),
-      ans:"", /* key: D("1ohldN3AU_m4LAhMcBT9fWWEqQWy6Xa_M") */
+      ans:D("1ohldN3AU_m4LAhMcBT9fWWEqQWy6Xa_M"), /* key: D("1ohldN3AU_m4LAhMcBT9fWWEqQWy6Xa_M") */
       extras:[]},
     {d:15, iso:"2026-09-22", topic:"Unit 1 Test", flag:"test", extras:[]},
   ]},
