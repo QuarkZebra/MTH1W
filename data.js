@@ -129,7 +129,7 @@ const COURSE = {
   {name:"Algebra", days:[
     {d:16, iso:"2026-09-23", topic:"Algebraic Expressions", num:"2.1",
       note:D("1Vj3FB9JTvftt7Qk_Xdwuh-yaxKi_eWRG"),
-      ans:"", /* key: D("1c6VAc3b1MfMYMAjHxLg5cNl2Qf6jSr-1") */
+      ans:D("1c6VAc3b1MfMYMAjHxLg5cNl2Qf6jSr-1"), /* key: D("1c6VAc3b1MfMYMAjHxLg5cNl2Qf6jSr-1") */
       extras:[["EQAO Questions", D("1NsWFWZLg1xj-Zbkt6OxeCZDiMsm7_f-V"), "eqao"],
               ["Algebraic Substitution", "https://www.youtube.com/watch?v=XJmXvZdRRNQ", "vid"]]},
     {d:17, iso:"2026-09-24", topic:"Coding 2 · Input and Pseudocode", num:"2.2",
