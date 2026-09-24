@@ -134,7 +134,7 @@ const COURSE = {
               ["Algebraic Substitution", "https://www.youtube.com/watch?v=XJmXvZdRRNQ", "vid"]]},
     {d:17, iso:"2026-09-24", topic:"Coding 2 · Input and Pseudocode", num:"2.2",
       note:D("1Xv8ybKK5rHTQhVYaO_NL0d_uiaGEI0TE"),
-      ans:"", /* key: D("1Anx0z7QkvP6-wP-QRfc2ixCQu5Rw9taN") */
+      ans:D("1Anx0z7QkvP6-wP-QRfc2ixCQu5Rw9taN"), /* key: D("1Anx0z7QkvP6-wP-QRfc2ixCQu5Rw9taN") */
       extras:[["EQAO Questions", D("1O-lVhQouEJdpijAEnELQkos30rsBh9-g"), "eqao"],
               ["What Is Pseudocode?", "https://www.youtube.com/watch?v=qfckDdsEIq8", "vid"]]},
     {d:18, iso:"2026-09-25", topic:"Collecting Like Terms", num:"2.3",
