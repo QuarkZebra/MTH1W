@@ -139,7 +139,7 @@ const COURSE = {
               ["What Is Pseudocode?", "https://www.youtube.com/watch?v=qfckDdsEIq8", "vid"]]},
     {d:18, iso:"2026-09-25", topic:"Collecting Like Terms", num:"2.3",
       note:D("1b-XS_es2YeXxQuYAFAZnUslEbA48X25X"),
-      ans:"", /* key: D("1ik0IoSRj0VHKrHpBr8h9NlHi8NVYcHUW") */
+      ans:D("1ik0IoSRj0VHKrHpBr8h9NlHi8NVYcHUW"), /* key: D("1ik0IoSRj0VHKrHpBr8h9NlHi8NVYcHUW") */
       extras:[["EQAO Questions", D("1vqPIqJTk8pWvMDphVPJ1xUBHNwmIAi5k"), "eqao"],
               ["Collecting Like Terms", "https://www.youtube.com/watch?v=g9VIuFYB98g", "vid"]]},
     {d:19, iso:"2026-09-28", topic:"Equivalent Expressions", num:"2.4",
