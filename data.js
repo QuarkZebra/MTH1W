@@ -144,7 +144,7 @@ const COURSE = {
               ["Collecting Like Terms", "https://www.youtube.com/watch?v=g9VIuFYB98g", "vid"]]},
     {d:19, iso:"2026-09-28", topic:"Equivalent Expressions", num:"2.4",
       note:D("10kyfDCK4bc-nJbXpj7ePbW9BnFd9N_bN"),
-      ans:"", /* key: D("1FQZvqRF3iXl2e-X36Fy36DnVTAibxnRr") */
+      ans:D("1FQZvqRF3iXl2e-X36Fy36DnVTAibxnRr"), /* key: D("1FQZvqRF3iXl2e-X36Fy36DnVTAibxnRr") */
       extras:[["EQAO Questions", D("155A8msqLtwmIetV14w36Zg12VQizv4ZH"), "eqao"],
               ["Equivalent Expressions", "https://www.youtube.com/watch?v=eW7paVRISoU", "vid"]]},
     {d:20, iso:"2026-09-29", topic:"Adding and Subtracting Polynomials", num:"2.5",
