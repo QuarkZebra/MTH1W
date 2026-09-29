@@ -149,7 +149,7 @@ const COURSE = {
               ["Equivalent Expressions", "https://www.youtube.com/watch?v=eW7paVRISoU", "vid"]]},
     {d:20, iso:"2026-09-29", topic:"Adding and Subtracting Polynomials", num:"2.5",
       note:D("19imA5a3tuS9lH5C5yTrjcw6nFwfy0401"),
-      ans:"", /* key: D("16OXJLgbERpuiEvOz15D2ilReb7gHMHwm") */
+      ans:D("16OXJLgbERpuiEvOz15D2ilReb7gHMHwm"), /* key: D("16OXJLgbERpuiEvOz15D2ilReb7gHMHwm") */
       extras:[["EQAO Questions", D("1b12y0ENTEIMPT1efb53iE0AaAxFXaGH8"), "eqao"],
               ["Adding and Subtracting Polynomials", "https://www.youtube.com/watch?v=nJPPYdkU35E", "vid"]]},
     {d:21, iso:"2026-09-30", topic:"Current Topics  &  Fraction Operations", flag:"quiz",
