@@ -161,7 +161,7 @@ const COURSE = {
               ["Multiplying and Dividing Powers", "https://www.youtube.com/watch?v=CZ5ne_mX5_I", "vid"]]},
     {d:23, iso:"2026-10-05", topic:"Powers of Powers", num:"2.7",
       note:D("1wfqKeWALwtVqYBUYSdfZiHkaoWx5cRHp"),
-      ans:"", /* key: D("1utsen4Y4k9CvhEuiyCwTivyQOZlOQCBU") */
+      ans:D("1utsen4Y4k9CvhEuiyCwTivyQOZlOQCBU"), /* key: D("1utsen4Y4k9CvhEuiyCwTivyQOZlOQCBU") */
       extras:[["EQAO Questions", D("1z72US5rvBvmmp-Aa87xSLk6MhPOcuxk4"), "eqao"],
               ["Powers of Products and Quotients", "https://www.youtube.com/watch?v=dC1ojsMi1yU", "vid"]]},
     {d:24, iso:"2026-10-06", topic:"Multiplying and Dividing Monomials", num:"2.8",
