@@ -166,7 +166,7 @@ const COURSE = {
               ["Powers of Products and Quotients", "https://www.youtube.com/watch?v=dC1ojsMi1yU", "vid"]]},
     {d:24, iso:"2026-10-06", topic:"Multiplying and Dividing Monomials", num:"2.8",
       note:D("10jZD63n3g49NleMtKK6_sBT2GJ-_z8RI"),
-      ans:"", /* key: D("1ntnxTl6EIixVDL3YwGQSOtwfvWQGHPXr") */
+      ans:D("1ntnxTl6EIixVDL3YwGQSOtwfvWQGHPXr"), /* key: D("1ntnxTl6EIixVDL3YwGQSOtwfvWQGHPXr") */
       extras:[["EQAO Questions", D("12jstp468azBigIcTBmzmyEjKDs-FJrN7"), "eqao"],
               ["Multiplying and Dividing Monomials", "https://www.youtube.com/watch?v=IvefwveWexA", "vid"]]},
     {d:25, iso:"2026-10-07", topic:"Multiplying a Monomial by a Polynomial", num:"2.9",
