@@ -171,7 +171,7 @@ const COURSE = {
               ["Multiplying and Dividing Monomials", "https://www.youtube.com/watch?v=IvefwveWexA", "vid"]]},
     {d:25, iso:"2026-10-07", topic:"Multiplying a Monomial by a Polynomial", num:"2.9",
       note:D("1LmUt8One4rBTaMemrKJ3Lnz9KrFpqSJU"),
-      ans:"", /* key: D("1LNRmESPkecDXGnj_-pA-c_ZjDtJRVyYK") */
+      ans:D("1LNRmESPkecDXGnj_-pA-c_ZjDtJRVyYK"), /* key: D("1LNRmESPkecDXGnj_-pA-c_ZjDtJRVyYK") */
       extras:[["EQAO Questions", D("1ez_ObwmrxNr81Qv5P5PVeq3VrJeemxxH"), "eqao"],
               ["Multiplying a Polynomial by a Monomial", "https://www.youtube.com/watch?v=4xVWVvyachs", "vid"]]},
     {d:26, iso:"2026-10-08", topic:"Solving One-Step and Two-Step Equations", num:"2.10",
