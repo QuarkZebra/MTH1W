@@ -176,7 +176,7 @@ const COURSE = {
               ["Multiplying a Polynomial by a Monomial", "https://www.youtube.com/watch?v=4xVWVvyachs", "vid"]]},
     {d:26, iso:"2026-10-08", topic:"Solving One-Step and Two-Step Equations", num:"2.10",
       note:D("1Tc0lVBtGZQ6a0YsQi2rU-zcA9HD3Jeu0"),
-      ans:"", /* key: D("1FJgAMIWa59pEP-QzuSGNmf5lWHiX7lAU") */
+      ans:D("1FJgAMIWa59pEP-QzuSGNmf5lWHiX7lAU"), /* key: D("1FJgAMIWa59pEP-QzuSGNmf5lWHiX7lAU") */
       extras:[["EQAO Questions", D("1lonBLMyYvxFWUUxes-j5IuElH99EJoB1"), "eqao"],
               ["Solving Basic Equations", "https://www.youtube.com/watch?v=l3XzepN03KQ", "vid"],
               ["Solving Two-Step Equations", "https://www.youtube.com/watch?v=LDIiYKYvvdA", "vid"]]},
