@@ -182,7 +182,7 @@ const COURSE = {
               ["Solving Two-Step Equations", "https://www.youtube.com/watch?v=LDIiYKYvvdA", "vid"]]},
     {d:27, iso:"2026-10-09", topic:"Solving with Variables on Both Sides", num:"2.11",
       note:D("1iU3UqovrFKqF5zpY4_4gNtuO-ikHGoWW"),
-      ans:"", /* key: D("1L5r3Rm9G2Cx6TMO3rpFnIGDl97gTVSxH") */
+      ans:D("1L5r3Rm9G2Cx6TMO3rpFnIGDl97gTVSxH"), /* key: D("1L5r3Rm9G2Cx6TMO3rpFnIGDl97gTVSxH") */
       extras:[["EQAO Questions", D("1V8qGQSmLTqaTDnKhN-IKPTBh8ti9MrGc"), "eqao"],
               ["Variables on Both Sides", "https://www.youtube.com/watch?v=f15zA0PhSek", "vid"],
               ["Solving with the Distributive Property", "https://www.youtube.com/watch?v=YZBStgZGyDY", "vid"]]},
