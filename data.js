@@ -194,7 +194,10 @@ const COURSE = {
               ["A Harder Equation Word Problem", "https://www.youtube.com/watch?v=xKH1Evwu150", "vid"]]},
     {d:29, iso:"2026-10-14", topic:"Current Topics  &  Scientific Notation", flag:"quiz",
       extras:[]},
-    {d:30, iso:"2026-10-15", topic:"Review", extras:[]},
+    {d:30, iso:"2026-10-15", topic:"Review", noteLabel:"Unit 2 Review",
+      note:D("1X75-icUfhEmZgWiPHPeIb3HFzRPw3P06"),
+      ans:"", /* key: D("1qDrYxYiRSe4DCLDbNZ0D2LpRq3inXrlG") */
+      extras:[]},
     {d:31, iso:"2026-10-16", topic:"Unit 2 Test", flag:"test", extras:[]},
   ]},
 
