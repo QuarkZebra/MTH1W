@@ -30,7 +30,7 @@
 
    To SAVE TIME: (Just change the message)
 
-   git add . && git commit -m "d11 answers" && git push origin main
+   git add . && git commit -m "coding 3 key add" && git push origin main
 
    ═══════════════════════════════════════════════════════════ */
 
@@ -188,7 +188,7 @@ const COURSE = {
               ["Solving with the Distributive Property", "https://www.youtube.com/watch?v=YZBStgZGyDY", "vid"]]},
     {d:28, iso:"2026-10-13", topic:"Coding 3 · Word Problems and Checking", num:"2.12",
       note:D("1vytWnAL2XWxeEw4IMhoHzWF0zEpwi486"),
-      ans:"", /* key: D("1KGijohkv5Tg7CDDI41RuMiofWuZQLW1q") */
+      ans:D("1KGijohkv5Tg7CDDI41RuMiofWuZQLW1q"), /* key: D("1KGijohkv5Tg7CDDI41RuMiofWuZQLW1q") */
       extras:[["EQAO Questions", D("12xEHCYC2WUeiSaX29_tm2cXNGsMSXpPX"), "eqao"],
               ["Word Problem: Solving Equations", "https://www.youtube.com/watch?v=iimpwYBiKNg", "vid"],
               ["A Harder Equation Word Problem", "https://www.youtube.com/watch?v=xKH1Evwu150", "vid"]]},
