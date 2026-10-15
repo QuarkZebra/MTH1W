@@ -1,6 +1,6 @@
 # MTH1W — Mathematics 9
 
-Course website for MTH1W (2026–27, semester 1). Live at **https://quarkzebra.github.io/MTH1W/**
+Course website for MTH1W (2026–27, semester 1). Live at **https://mathbrown.com/mth1w/** (the old https://quarkzebra.github.io/MTH1W/ address redirects there)
 
 ## Adding links during the semester
 
